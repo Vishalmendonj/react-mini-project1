@@ -1,0 +1,19 @@
+input{
+    border: 1px solid black;
+    width: 250px;
+    height: 45px;
+    border-radius: 12px;
+    
+}
+.input-button{
+    display: flex;
+    
+    
+}
+button{
+    color: white;
+    background-color: black;
+    border-radius: 12px;
+    margin-left: 15px;
+    width: 105px;
+}

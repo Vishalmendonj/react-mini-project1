@@ -1,0 +1,11 @@
+.images{
+    display: flex;
+}
+.image{
+    width: 18px;
+    height: 18px;
+    margin: 3px;
+}
+.f_right{
+    margin-right: 30px;
+}
